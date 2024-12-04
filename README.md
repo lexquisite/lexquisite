@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lexquisite
-- 👀 I’m interested in Web Design, Gaming, 3D Printing, and Anime
+- 👀 I’m interested in Web Design, Gaming, and 3D Printing
 - 🌱 I’m currently majoring in CS at HCCC
 
 <!---
